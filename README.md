@@ -1,4 +1,4 @@
-# Frontend Mentor - Qr Code Component
+# Frontend Mentor - Qr Code Componen
 
 <img width="1044" alt="Screenshot 2025-02-21 at 04 26 50" src="https://github.com/user-attachments/assets/5f098880-9603-48e1-b7ff-2f113ea30a24" />
 
