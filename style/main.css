@@ -37,7 +37,7 @@ body {
   max-width: 16rem;
 }
 
-h1 {
+.title {
   color: var(--color-slate-900);
   font-family: Outfit, sans-serif;
   font-size: var(--font-size-text-preset-1);
